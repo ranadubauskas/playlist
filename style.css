@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+  font-family: fantasy, papyrus;
+}
+.banner{
+  background-color: LightCyan;
+}
+.card-content{
+  background-color: LightCyan;
+  text-align: center;
+}
+button{
+  background-color: black;
+}
